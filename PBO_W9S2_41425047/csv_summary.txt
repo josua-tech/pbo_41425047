@@ -1,0 +1,4 @@
+=== CSV SUMMARY STATISTICS ===
+Umur: n=7, min=20.0, max=23.0, total=147.0, mean=21.00, median=21.0, stdDev=1.07
+Nilai_PBO: n=7, min=66.0, max=95.0, total=574.0, mean=82.00, median=85.0, stdDev=10.21
+Nilai_Basdat: n=5, min=65.0, max=91.0, total=406.0, mean=81.20, median=88.0, stdDev=10.65

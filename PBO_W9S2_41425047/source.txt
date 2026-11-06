@@ -1,0 +1,5 @@
+Java programming is fun and powerful.
+Streams and Files are important concepts.
+Exception handling makes code robust.
+String manipulation is frequently used.
+Practice makes perfect in programming.

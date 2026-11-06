@@ -1,0 +1,34 @@
+=== TEXT PROCESSING REPORT ===
+Total Lines: 5
+Total Words: 27
+Total Characters: 192
+Average Words per Line: 5.4
+Total Sentences: 5
+Most Frequent Word(s): [and, is, makes, programming] (2x)
+
+CHARACTER FREQUENCY:
+e: 16
+a: 15
+n: 15
+i: 13
+r: 13
+s: 11
+t: 11
+m: 9
+o: 9
+p: 9
+c: 7
+g: 6
+u: 6
+d: 5
+f: 5
+l: 5
+k: 2
+b: 1
+h: 1
+j: 1
+q: 1
+v: 1
+w: 1
+x: 1
+y: 1
